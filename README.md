@@ -49,3 +49,8 @@ Follow these steps to run the project on Google Colab:
 
 5. **Check the results**
   After the training is complete, the model’s performance metrics (loss and accuracy) will be displayed. You can also use the model to predict the class of new images (cat or dog).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

@@ -15,14 +15,18 @@ This is an image classification project using a convolutional neural network mod
 
 ```plaintext
 Project1_ML-Specialist_CatOrDog/
-├── data/                # Directory containing training and testing data
-│   ├── train/           # Training images (cats, dogs)
-│   └── test/            # Test images (cats, dogs)
 ├── notebook/            # Jupyter notebook or Python script for training
-├── models/              # Saved trained models
 └── README.md            # Project documentation
 
 ```
+## Dataset
+
+The dataset used in this project is the **Kaggle Cats and Dogs Dataset**, which can be downloaded from the Microsoft website:
+
+- [Kaggle Cats and Dogs Dataset - Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
+
+This dataset contains labeled images of cats and dogs, which were used to train and test the model. The images are classified into two categories: "cats" and "dogs".
+
 ## How to Run the Project on Google Colab
 
 Follow these steps to run the project on Google Colab:
